@@ -1,3 +1,4 @@
+
 <?php 
     echo "Echo is Case Insensitive"; echo "<br>" ;echo "Echo is used to Display the output";
     echo "<br>";

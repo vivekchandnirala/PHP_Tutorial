@@ -5,6 +5,6 @@
 
     echo "<br>";  // For Break the Line
 
-    define("AGE","21");
+    define("AGE","21"); //2nd Type to Declare Constants
     echo "My Age is ",AGE;
 ?>
